@@ -1,5 +1,9 @@
-body{
-    background-color: black
+body {
+    color:black;
+    background-color:white;
+    background-image:url(images/cestbleu.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .menu {
