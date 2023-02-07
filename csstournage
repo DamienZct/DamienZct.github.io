@@ -1,0 +1,32 @@
+.agauche {
+  text-align: left;
+  color: #FFF300;
+  font-size: 150%;
+  position: absolute;
+  bottom: -550px;
+  left: 8px;
+}
+.adroite {
+  text-align: right;
+  color: #FFF300;
+  font-size: 150%;
+  position: absolute;
+  bottom: -550px;
+  right: 8px;
+}
+
+.video1 {
+  position: absolute;
+  text-align: left;
+  bottom: -950px;
+  left: 8px;
+  width: 130%;
+}
+
+.video2 {
+  position: absolute;
+  text-align: left;
+  bottom: -950px;
+  right: -1135px;
+  width: 130%;
+}
